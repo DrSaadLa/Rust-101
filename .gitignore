@@ -36,3 +36,6 @@ RustRepo.png
 
 CourseScript.md
 script.md
+
+# Ignore all Markdown files
+*.rst
