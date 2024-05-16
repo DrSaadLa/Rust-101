@@ -39,3 +39,7 @@ script.md
 
 # Ignore all Markdown files
 *.rst
+
+
+# Ignore pdf files
+*.pdf
